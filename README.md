@@ -1,5 +1,4 @@
 # professional-scrum-master-1
-certification PSM1
 
 ![alt text](https://github.com/thomasfourest/professional-scrum-master-1/blob/master/PSM1.jpg)
 
