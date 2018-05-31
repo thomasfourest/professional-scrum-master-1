@@ -1,0 +1,165 @@
+﻿2018-05-28 SQLi PSM - Présentations
+- Thomas BARNABAUX
+    - email :
+        - tbarnaba@qualcommlife.com
+    - Société :
+        - Capsule technology
+        - Connectivité d’appareils médicaux
+        - Transmettre infos médicales
+    - Fonction :
+        - Program manager = chef de projet
+        - Hardware et software
+    - Expérience :
+        - Developpeur soft au départ société flux vidéo pour canal+
+        - Méthode plus traditionnelle
+        - Environnement régulé donc pas complètement Agile
+        - Pratiques agiles pendant le dev mais pas de À à Z
+        - Connaît l’agilité sur le tas mais pas tout
+    - Attentes :
+        - /) Cérémonies pas exhaustives
+        - À) Itérations = souplesse
+        - !) Vocabulaire
+        - = Aucune idée
+    - Autres :
+        - Musique depuis très longtemps
+        - Piano et clavier
+        - Concerts et soirées privées
+        - Fille de 3 ans 1/2
+- Marwen DALY
+    - email :
+        - daly.marwen@gmail.com
+    - Société :
+        - ILYEUM SAS
+        - SSII de 50 employés
+        - Généraliste toutes technos
+    - Fonction :
+        - Consultant Sharepoint
+    - Expérience :
+        - Ingénieur
+        - Consultant Sharepoint plus de 9 ans
+        - Pas vraiment de gros projets de développement
+        - Petits projets entre Kanban et autre
+        - Comment architecturer = plus grosse partie
+        - Plus gros projet à 7 développeurs
+    - Attentes :
+        - /) Rôles
+        - À) Implication du client pendant le cycle de validation
+        - !) Meilleure compréhension et certification
+        - = Parler de Scrum en pratique en plus de théorique
+    - Autres :
+        - Hypersportif
+        - Sport tous les jours
+        - En salle et outdoor
+        - Aussi gourmand
+- Bruno FAUVE
+    - email :
+        - bfauve@hachette-livre.fr
+    - Société :
+        - Hachette livres
+        - Maurepas
+        - 1er éditeur
+    - Fonction :
+        - Dev grands comptes et projets direction client
+        - Fnac, Amazon, Auchan
+        - Depuis 4 ans
+        - Côté utilisateur
+    - Expérience :
+        - Expérience 20 ans informatique chez Hachette
+        - Passé de l’autre côté de la barrière
+    - Attentes :
+        - !) Cas d’usage et exemples plus coté utilisateur
+        - !) Bonnes pratiques (informaticiens pas formés)
+        - !) Certification
+        - = Aucune idée (utilisateurs)
+    - Autres :
+        - Sportif (ça ne se voit pas)
+        - Course à pied
+        - Trek en haute montagne
+        - Camp de base de l’Everest
+        - Ski
+- Thomas FOUREST
+    - email :
+        - thomas.fourest@gmail.com
+    - Société :
+        - ITN
+        - Éditeur de progiciel dans l’assurance
+        - 120 personnes
+        - Racheté par CGI
+    - Fonction :
+        - Consultant
+    - Expérience :
+        - Ancien courtier
+        - Depuis 10 ans
+        - Au départ à la Caisse d’Epargne
+        - Logiciel Cleva
+        - Pas mal bougé chez des clients
+        - Devops depuis 4 ans à Lyon
+        - On n’arrive pas vraiment à s’organiser ainsi
+        - Toutes les équipes sont plus ou moins passées à l’agile
+        - On a essayé et on a décidé de ne pas en faire
+    - Attentes :
+        - À) Périodicité itération
+        - !) Incontournable de Scrum
+        - !) Comment ou pourquoi s’en passer ?
+        - +) XP VS SCRUM
+    - Autres :
+        - Sociales et rigolotes
+        - Beau temps
+        - Alpinisme escalade à Lyon
+- Aurélie SAGER
+    - email :
+        - aureliesager@gmail.com
+    - Société :
+        - Capsule technology
+        - Qualcomm life
+        - Données médicales
+        - Logiciels et systèmes médicaux hard et soft
+    - Fonction :
+        - Chef de projet département R&D
+        - Softs principalement mais aussi hard
+        - Projets structurés en phases cycle en V
+        - Insertion agilité
+    - Expérience :
+        - Ingénierie biomédicale depuis 10 ans
+        - Recherche clinique
+        - Plutôt départements logiciels
+        - 1er job spécifications
+        - Puis Responsable équipe data management
+        - Puis Responsable qualité petite boîte imagerie pathologie 4 ans
+        - 2 ans chez Capsule
+        - D’abord chef projet 6/7 personnes
+        - Puis program management depuis 8 mois
+    - Attentes :
+        - /) Entendu parle d’agilité Mai je ne sais pas trop ce que je sais
+        - À) Rapidité adaptation et souplesse
+        - !) Familiarisation avec les concepts
+        - = Differnecier ?
+    - Autres :
+        - Plonger et marcher
+- Sing SITHAKOUL
+    - email :
+        - sithako@allianz.fr
+    - Société :
+        - CELAD TOULOUSE
+        - Agence paris
+        - Service
+        - Siège TOULOUSE
+    - Fonction :
+        - Client Allianz (assurance)
+        - Squad animateur depuis janvier sur indemnisation
+        - Indemnisation sinistres corporels
+    - Expérience :
+        - Commencé à faire des rituels
+        - Pratique depuis 5 mois
+        - Équipes offshore
+        - Formations sur équipes co-localisées
+        - Pas d’infos sur offshore (cherché sur Internet)
+    - Attentes :
+        - /) Suivi par burn down chart vélocité
+        - À) Sprint review demo tous les 15 jours = feed-back rapide
+        - !) Agilite offshore avec équipes distribuées (langue et décalage horaire)
+        - = Partir certifié mais surtout bonnes pratiques pour être efficace
+    - Autres :
+        - Bricolage
+        - Jardinage
+        - Bonsaï
